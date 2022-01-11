@@ -4,4 +4,5 @@
   height: 100vh;
   background-color: #18191a;
   color: white;
+  overflow-y: scroll;
 }
